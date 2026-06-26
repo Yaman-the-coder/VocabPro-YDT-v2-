@@ -13,6 +13,12 @@
 
 ---
 
+
+<img width="1827" height="917" alt="image" src="https://github.com/user-attachments/assets/b43db4b0-caab-4f4a-9dd6-8c11b5d0c22d" />
+
+
+---
+
 ### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/book-open.svg" width="24" height="24" align="center" /> Overview
 This web application called VocabPro YDT is built with plain Vanilla JavaScript and intended to enable users to build strong English vocabulary for YDT. Withflashcards, various gameified quiz options, sound feedbackand even local persistent learning tracking, it offers a lively user interface.
 
