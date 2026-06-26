@@ -72,3 +72,9 @@ YDT/
 ├── setup.sh            # Environment setup script
 ├── start.bat           # Windows startup script
 └── start.sh            # Unix/Linux startup script
+```
+<br>
+<hr>
+<p align="center">
+  <small>Made with 🤍 by <a href="https://github.com/yamanist0">yamanist</a></small>
+</p>
